@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello");
         System.out.println("B21 is good at Java");
         System.out.println("jeren");
+        System.out.println("mac users are happy");
     }
 }
